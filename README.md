@@ -1,4 +1,4 @@
-PySpark E-Commerce Sales Analytics Platform
+E-Commerce Sales Analytics Platform
 Overview
 
 This project is an end-to-end Data Engineering and Analytics solution built using PySpark and the Brazilian Olist E-Commerce Dataset.
